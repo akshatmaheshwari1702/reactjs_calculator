@@ -2,7 +2,7 @@
 
 This is a simple arithmetic calculator built with REACT.JS library. 
 
-Live version deployed at [heroku](https://calculator-n.herokuapp.com/)
+Live version deployed at [heroku](https://calculator-ak.herokuapp.com//)
 
 To run it on your local machine clone into the repo, then type: 
 
